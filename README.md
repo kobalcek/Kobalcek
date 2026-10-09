@@ -1,4 +1,4 @@
-BUHDEJ!
+BUHDEJ!😁
 
 Sem Kobalcek. Prihajam iz Vipavske doline, natančneje Ustje pri Ajdovščini.
 Računalništvo me je začelo zanimati v osnovni šoli, kjer sem se naučil osnov Phytona.
