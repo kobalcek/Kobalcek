@@ -5,3 +5,4 @@ Računalništvo me je začelo zanimati v osnovni šoli, kjer sem se naučil osno
 Zdaj svoje znanje izpopolnjujem na Elektrotehniški in računalniški šoli v Novi Gorici, kjer se učimo programski jezik Javo, podatkovne baze, omreženje, html, css, itd.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
